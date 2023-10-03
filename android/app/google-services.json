@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108847260961",
+    "project_id": "shurk-5e838",
+    "storage_bucket": "shurk-5e838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108847260961:android:3739beaf8ff68e50a18a60",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBtBIXQlz_x2fvffMCV9xZk6IU5z6l_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
